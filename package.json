@@ -1,0 +1,15 @@
+{
+  "name": "wanchain-keystore",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "keythereum": "^1.0.3",
+    "wanchain-util": "^1.2.0"
+  },
+  "author": "cranelv",
+  "license": "MIT"
+}
